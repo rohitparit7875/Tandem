@@ -1,0 +1,8 @@
+What is Tandem (NonStop)?
+Tandem/NonStop is a high-availability, fault-tolerant server platform used for mission-critical applications. If one component fails, another takes over instantly—no service interruption.
+🔹 Key Features
+Fault Tolerance – Automatic failover (no single point of failure)
+High Availability (99.999%) – Ideal for always-on systems
+Scalability – Add CPUs/storage without downtime
+Data Integrity – Strong transaction consistency
+Security & Reliability – Built for regulated industries
