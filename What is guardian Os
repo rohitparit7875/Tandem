@@ -1,0 +1,5 @@
+✅ 6. What is Guardian OS?
+Guardian OS is the original operating system of Tandem (HPE NonStop) systems.
+It is designed for high availability, fault tolerance, and real-time transaction processing.
+Guardian uses a record-oriented file system (Enscribe) and supports message-based IPC between processes.
+📌 Interview point: Guardian OS is tightly coupled with NonStop hardware for zero downtime.
