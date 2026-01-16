@@ -1,0 +1,22 @@
+8. Difference between Guardian and OSS
+Feature
+Guardian
+OSS
+OS Type
+Native Tandem OS
+UNIX-like environment
+File System
+Enscribe (record-based)
+Hierarchical (UNIX files)
+Commands
+TACL commands
+Shell commands (ls, cd, grep)
+Programming
+TAL, NonStop C, COBOL
+C, C++, Shell
+Performance
+Very high & fault-tolerant
+Slightly less than Guardian
+Usage
+Core banking & payments
+Integration & utilities
