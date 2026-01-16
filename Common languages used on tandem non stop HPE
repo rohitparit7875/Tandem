@@ -1,0 +1,21 @@
+Common Languages Used on Tandem (NonStop)
+1️⃣ TAL (Transaction Application Language)
+Native Tandem language
+Similar to C / Pascal
+Used for low-level system and transaction processing
+Very fast and efficient
+2️⃣ TACL (Tandem Advanced Command Language)
+Command-line scripting language
+Used for job control, automation, file handling
+Similar to Shell scripting
+3️⃣ COBOL (NonStop COBOL)
+Most widely used in banking & payment systems
+Strong support for batch and online transactions
+Still heavily used in legacy financial applications
+4️⃣ C / C++
+Used for performance-critical applications
+System utilities and middleware development
+5️⃣ Java (NonStop Java)
+Used in modern integrations
+Supports REST APIs and web services
+Often used alongside legacy TAL/COBOL
