@@ -1,0 +1,4 @@
+7. What is OSS in Tandem?
+OSS (Open System Services) is the UNIX-like environment provided on Tandem NonStop systems.
+It allows users to run POSIX/UNIX commands, shell scripts, and applications alongside Guardian.
+📌 Interview point: OSS makes Tandem compatible with UNIX tools and applications.
