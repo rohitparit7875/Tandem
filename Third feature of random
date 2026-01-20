@@ -1,0 +1,4 @@
+3️⃣ Data Integrity & Reliability
+Ensures ACID-compliant transactions (Atomicity, Consistency, Isolation, Durability).
+Prevents data loss or partial transactions, which is extremely important in banking.
+Even during failures, no transaction is lost or duplicated.
