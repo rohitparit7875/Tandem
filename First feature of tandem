@@ -1,0 +1,4 @@
+1️⃣ Fault Tolerance (Zero Downtime)
+HP Tandem systems are designed to never stop, even if a hardware component fails.
+If one CPU, disk, or process fails, another takes over instantly.
+This is critical for banking, where ATM, UPI, NEFT, RTGS, and card transactions must run 24/7.
